@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XA+krG66h8pEcLm6UzK0ANYXyMzEzy6af6iWFTyacVHWPeaOsL5eLHLPUBAxqiE7m+x7orY0RWG7aJqrKyQj5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imcfa\\Desktop\\GameObject_Proof_of_Concept\\GameObject_Proof_of_Concept.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imcfa\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\imcfa\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
